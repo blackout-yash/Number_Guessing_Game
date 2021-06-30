@@ -30,7 +30,6 @@ int main(){
       else
          cout << "\n\nSorry, You Lost!\n\n";
    }
-
 return 0;
 }
 
