@@ -1,1 +1,7 @@
 INSTRUCTIONS
+
+# This is a single player game.
+# The game is very simple, the player only has to guess the correct number between 1 and 20.
+# Each player gets 5 chances in this game.
+# If a player cannot guess the correct number in 5 chances, then he/she loses the game.
+# If a player guesses a correct number within 5 chances, then he/she wins the game.
